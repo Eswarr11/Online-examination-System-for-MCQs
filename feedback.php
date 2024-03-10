@@ -99,7 +99,7 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
 <div class="row">
 <div class="col-md-1"></div>
 <div class="col-md-10">
-<a href="mailto:eswarjo2003@gmail.com" style="color:#000000">eswarjo2003@gmail.com</a><br /><br />
+<a href="mailto:abcd2003@gmail.com" style="color:#000000">abcd2003@gmail.com</a><br /><br />
 </div><div class="col-md-1"></div></div>
 <p>Or you can directly submit your feedback by filling the enteries below:-</p>
 <form role="form"  method="post" action="feed.php?q=feedback.php">
@@ -166,9 +166,9 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
      <img src="image/eswar.jpg" width=100 height=100 alt="Eswar" class="img-rounded">
      </div>
      <div class="col-md-5">
-    <a href="http://www.instagram.com/eswar.11" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Instagram">Eswar</a>
-    <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 6381013150</h4>
-    <h4 style="font-family:'typo' ">eswarjo2003@gmail.com</h4>
+    <a href="http://www.instagram.com/" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Instagram">Eswar</a>
+    <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 1234567890</h4>
+    <h4 style="font-family:'typo' ">abcd@gmail.com</h4>
     <h4 style="font-family:'typo' ">St.Xavier's College,Palayamkottai-627002</h4></div></div>
     </p>
       </div>
