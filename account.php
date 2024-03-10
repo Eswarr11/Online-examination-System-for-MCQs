@@ -257,9 +257,9 @@ echo '</table></div></div>';}
      <img src="image/eswar.jpg" width=100 height=100 alt="Eswar" class="img-rounded">
      </div>
      <div class="col-md-5">
-    <a href="http://www.instagram.com/eswar.11" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Instagram">Eswar</a>
-    <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 6381013150</h4>
-    <h4 style="font-family:'typo' ">eswarjo2003@gmail.com</h4>
+    <a href="http://www.instagram.com/" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Instagram">Eswar</a>
+    <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 1234567890</h4>
+    <h4 style="font-family:'typo' ">abcd2003@gmail.com</h4>
     <h4 style="font-family:'typo' ">St.Xavier's College,Palayamkottai-627002</h4></div></div>
     </p>
       </div>
